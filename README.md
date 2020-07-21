@@ -13,11 +13,5 @@ The first line contains an integer , the number of socks.
 The second line contains space-separated integers describing the colors of the socks in the pile.
 Constraints
 where
-Output Format
-Print the total number of matching pairs of socks that John can sell.
-Sample Input
-9
-10 20 20 10 10 30 50 10 20
-Sample Output
-3
+
 
